@@ -5,6 +5,10 @@ Contributors:
 - Jason Tan
 - Darkin Style
 
+Helpers: 
+- Yamamoo  
+- Dubu
+
 **Git Commands**
 ```
 git status
