@@ -5,7 +5,7 @@ Contributors:
 - Jason Tan
 - Darkin Style
 
-Assistance: 
+Helpers: 
 - Yamamoo  
 - Dubu
 
